@@ -8,4 +8,7 @@ public class hello {
     public  void fun(){
         System.out.println("哈哈");
     }
+    public  void fun1(){
+        System.out.println("安静");
+    }
 }
